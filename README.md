@@ -1,2 +1,3 @@
 # hello-world
-Sample repo
+Sample repo to understand working of Github
+
